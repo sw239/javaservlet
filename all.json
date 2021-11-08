@@ -1,0 +1,374 @@
+{
+  "RestResponse" : {
+    "messages" : [ "More webservices are available at http://www.groupkt.com/post/f2129b88/services.htm", "Total [56] records found." ],
+    "result" : [ {
+      "country" : "USA",
+      "name" : "Alabama",
+      "abbr" : "AL",
+      "area" : "135767SKM",
+      "largest_city" : "Birmingham",
+      "capital" : "Montgomery"
+    }, {
+      "country" : "USA",
+      "name" : "Alaska",
+      "abbr" : "AK",
+      "area" : "1723337SKM",
+      "largest_city" : "Anchorage",
+      "capital" : "Juneau"
+    }, {
+      "country" : "USA",
+      "name" : "Arizona",
+      "abbr" : "AZ",
+      "area" : "294207SKM",
+      "capital" : "Phoenix"
+    }, {
+      "country" : "USA",
+      "name" : "Arkansas",
+      "abbr" : "AR",
+      "area" : "134770SKM",
+      "capital" : "Little Rock"
+    }, {
+      "country" : "USA",
+      "name" : "California",
+      "abbr" : "CA",
+      "area" : "423968SKM",
+      "largest_city" : "Los Angeles",
+      "capital" : "Sacramento"
+    }, {
+      "country" : "USA",
+      "name" : "Colorado",
+      "abbr" : "CO",
+      "area" : "268432SKM",
+      "capital" : "Denver"
+    }, {
+      "country" : "USA",
+      "name" : "Connecticut",
+      "abbr" : "CT",
+      "area" : "14356SKM",
+      "largest_city" : "Bridgeport",
+      "capital" : "Hartford"
+    }, {
+      "country" : "USA",
+      "name" : "Delaware",
+      "abbr" : "DE",
+      "area" : "6446SKM",
+      "largest_city" : "Wilmington",
+      "capital" : "Dover"
+    }, {
+      "country" : "USA",
+      "name" : "Florida",
+      "abbr" : "FL",
+      "area" : "170312SKM",
+      "largest_city" : "Jacksonville",
+      "capital" : "Tallahassee"
+    }, {
+      "country" : "USA",
+      "name" : "Georgia",
+      "abbr" : "GA",
+      "area" : "148958SKM",
+      "capital" : "Atlanta"
+    }, {
+      "country" : "USA",
+      "name" : "Hawaii",
+      "abbr" : "HI",
+      "area" : "16635SKM",
+      "capital" : "Honolulu"
+    }, {
+      "country" : "USA",
+      "name" : "Idaho",
+      "abbr" : "ID",
+      "area" : "214044SKM",
+      "capital" : "Boise"
+    }, {
+      "country" : "USA",
+      "name" : "Illinois",
+      "abbr" : "IL",
+      "area" : "149997SKM",
+      "largest_city" : "Chicago",
+      "capital" : "Springfield"
+    }, {
+      "country" : "USA",
+      "name" : "Indiana",
+      "abbr" : "IN",
+      "area" : "92789SKM",
+      "capital" : "Indianapolis"
+    }, {
+      "country" : "USA",
+      "name" : "Iowa",
+      "abbr" : "IA",
+      "area" : "144669SKM",
+      "capital" : "Des Moines"
+    }, {
+      "country" : "USA",
+      "name" : "Kansas",
+      "abbr" : "KS",
+      "area" : "213099SKM",
+      "largest_city" : "Wichita",
+      "capital" : "Topeka"
+    }, {
+      "country" : "USA",
+      "name" : "Kentucky",
+      "abbr" : "KY",
+      "area" : "104656SKM",
+      "largest_city" : "Louisville",
+      "capital" : "Frankfort"
+    }, {
+      "country" : "USA",
+      "name" : "Louisiana",
+      "abbr" : "LA",
+      "area" : "135658SKM",
+      "largest_city" : "New Orleans",
+      "capital" : "Baton Rouge"
+    }, {
+      "country" : "USA",
+      "name" : "Maine",
+      "abbr" : "ME",
+      "area" : "91634SKM",
+      "largest_city" : "Portland",
+      "capital" : "Augusta"
+    }, {
+      "country" : "USA",
+      "name" : "Maryland",
+      "abbr" : "MD",
+      "area" : "32131SKM",
+      "largest_city" : "Baltimore",
+      "capital" : "Annapolis"
+    }, {
+      "country" : "USA",
+      "name" : "Massachusetts",
+      "abbr" : "MA",
+      "area" : "20202SKM",
+      "capital" : "Boston"
+    }, {
+      "country" : "USA",
+      "name" : "Michigan",
+      "abbr" : "MI",
+      "area" : "250488SKM",
+      "largest_city" : "Detroit",
+      "capital" : "Lansing"
+    }, {
+      "country" : "USA",
+      "name" : "Minnesota",
+      "abbr" : "MN",
+      "area" : "225163SKM",
+      "largest_city" : "Minneapolis",
+      "capital" : "St. Paul"
+    }, {
+      "country" : "USA",
+      "name" : "Mississippi",
+      "abbr" : "MS",
+      "area" : "121530SKM",
+      "capital" : "Jackson"
+    }, {
+      "country" : "USA",
+      "name" : "Missouri",
+      "abbr" : "MO",
+      "area" : "180540SKM",
+      "largest_city" : "Kansas City",
+      "capital" : "Jefferson City"
+    }, {
+      "country" : "USA",
+      "name" : "Montana",
+      "abbr" : "MT",
+      "area" : "380832SKM",
+      "largest_city" : "Billings",
+      "capital" : "Helena"
+    }, {
+      "country" : "USA",
+      "name" : "Nebraska",
+      "abbr" : "NE",
+      "area" : "200330SKM",
+      "largest_city" : "Omaha",
+      "capital" : "Lincoln"
+    }, {
+      "country" : "USA",
+      "name" : "Nevada",
+      "abbr" : "NV",
+      "area" : "286380SKM",
+      "largest_city" : "Las Vegas",
+      "capital" : "Carson City"
+    }, {
+      "country" : "USA",
+      "name" : "New Hampshire",
+      "abbr" : "NH",
+      "area" : "24214SKM",
+      "largest_city" : "Manchester",
+      "capital" : "Concord"
+    }, {
+      "country" : "USA",
+      "name" : "New Jersey",
+      "abbr" : "NJ",
+      "area" : "22592SKM",
+      "largest_city" : "Newark",
+      "capital" : "Trenton"
+    }, {
+      "country" : "USA",
+      "name" : "New Mexico",
+      "abbr" : "NM",
+      "area" : "314917SKM",
+      "largest_city" : "Albuquerque",
+      "capital" : "Santa Fe"
+    }, {
+      "country" : "USA",
+      "name" : "New York",
+      "abbr" : "NY",
+      "area" : "141297SKM",
+      "largest_city" : "New York",
+      "capital" : "Albany"
+    }, {
+      "country" : "USA",
+      "name" : "North Carolina",
+      "abbr" : "NC",
+      "area" : "139391SKM",
+      "largest_city" : "Charlotte",
+      "capital" : "Raleigh"
+    }, {
+      "country" : "USA",
+      "name" : "North Dakota",
+      "abbr" : "ND",
+      "area" : "183107SKM",
+      "largest_city" : "Fargo",
+      "capital" : "Bismarck"
+    }, {
+      "country" : "USA",
+      "name" : "Ohio",
+      "abbr" : "OH",
+      "area" : "105830SKM",
+      "capital" : "Columbus"
+    }, {
+      "country" : "USA",
+      "name" : "Oklahoma",
+      "abbr" : "OK",
+      "area" : "177660SKM",
+      "capital" : "Oklahoma City"
+    }, {
+      "country" : "USA",
+      "name" : "Oregon",
+      "abbr" : "OR",
+      "area" : "254800SKM",
+      "largest_city" : "Portland",
+      "capital" : "Salem"
+    }, {
+      "country" : "USA",
+      "name" : "Pennsylvania",
+      "abbr" : "PA",
+      "area" : "119279SKM",
+      "largest_city" : "Philadelphia",
+      "capital" : "Harrisburg"
+    }, {
+      "country" : "USA",
+      "name" : "Rhode Island",
+      "abbr" : "RI",
+      "area" : "2678SKM",
+      "capital" : "Providence"
+    }, {
+      "country" : "USA",
+      "name" : "South Carolina",
+      "abbr" : "SC",
+      "area" : "77858SKM",
+      "capital" : "Columbia"
+    }, {
+      "country" : "USA",
+      "name" : "South Dakota",
+      "abbr" : "SD",
+      "area" : "199730SKM",
+      "largest_city" : "Sioux Falls",
+      "capital" : "Pierre"
+    }, {
+      "country" : "USA",
+      "name" : "Tennessee",
+      "abbr" : "TN",
+      "area" : "109152SKM",
+      "largest_city" : "Memphis",
+      "capital" : "Nashville"
+    }, {
+      "country" : "USA",
+      "name" : "Texas",
+      "abbr" : "TX",
+      "area" : "695660SKM",
+      "largest_city" : "Houston",
+      "capital" : "Austin"
+    }, {
+      "country" : "USA",
+      "name" : "Utah",
+      "abbr" : "UT",
+      "area" : "212819SKM",
+      "capital" : "Salt Lake City"
+    }, {
+      "country" : "USA",
+      "name" : "Vermont",
+      "abbr" : "VT",
+      "area" : "24905SKM",
+      "largest_city" : "Burlington",
+      "capital" : "Montpelier"
+    }, {
+      "country" : "USA",
+      "name" : "Virginia",
+      "abbr" : "VA",
+      "area" : "110787SKM",
+      "largest_city" : "Virginia Beach",
+      "capital" : "Richmond"
+    }, {
+      "country" : "USA",
+      "name" : "Washington",
+      "abbr" : "WA",
+      "area" : "184661SKM",
+      "largest_city" : "Seattle",
+      "capital" : "Olympia"
+    }, {
+      "country" : "USA",
+      "name" : "West Virginia",
+      "abbr" : "WV",
+      "area" : "62258SKM",
+      "capital" : "Charleston"
+    }, {
+      "country" : "USA",
+      "name" : "Wisconsin",
+      "abbr" : "WI",
+      "area" : "169634SKM",
+      "largest_city" : "Milwaukee",
+      "capital" : "Madison"
+    }, {
+      "country" : "USA",
+      "name" : "Wyoming",
+      "abbr" : "WY",
+      "area" : "251470SKM",
+      "capital" : "Cheyenne"
+    }, {
+      "country" : "USA",
+      "name" : "District of Columbia",
+      "abbr" : "DC",
+      "area" : "18SKM"
+    }, {
+      "country" : "USA",
+      "name" : "American Samoa",
+      "abbr" : "AS",
+      "area" : "1505SKM",
+      "capital" : "Pago Pago"
+    }, {
+      "country" : "USA",
+      "name" : "Guam",
+      "abbr" : "GU",
+      "area" : "1479SKM",
+      "capital" : "Hagåtña"
+    }, {
+      "country" : "USA",
+      "name" : "Northern Mariana Islands",
+      "abbr" : "MP",
+      "area" : "5118SKM",
+      "capital" : "Saipan"
+    }, {
+      "country" : "USA",
+      "name" : "Puerto Rico",
+      "abbr" : "PR",
+      "area" : "13792SKM",
+      "capital" : "San Juan"
+    }, {
+      "country" : "USA",
+      "name" : "U.S. Virgin Islands",
+      "abbr" : "VI",
+      "area" : "1898SKM",
+      "capital" : "Charlotte Amalie"
+    } ]
+  }
+}
